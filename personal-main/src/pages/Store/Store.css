@@ -1,0 +1,18 @@
+.store-header {
+    background-color: #232323;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .store-header h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #ffffff;
+  }
+  
+  .store-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
